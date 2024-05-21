@@ -13,3 +13,5 @@ Secret: {"soon-secret-key":"soon-secret-value"}
 ![alt text](images/golang-output.png)
 
 ![alt text](images/python-output.png)
+
+![alt text](images/aws-secret-manager.png)
