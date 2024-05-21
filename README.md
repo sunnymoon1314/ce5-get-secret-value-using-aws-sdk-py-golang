@@ -9,3 +9,7 @@ To run the codes, please trigger the .github/workflows/get-secret.yml file via w
 Expected output in all the runs should be:
 
 Secret: {"soon-secret-key":"soon-secret-value"}
+
+![alt text](images/golang-output.png)
+
+![alt text](images/python-output.png)
